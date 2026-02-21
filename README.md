@@ -1,5 +1,7 @@
 # Vue TO-DO List App with LOCALSTORAGE :pencil2:
 
+This project was initialized as part of Lab #2 for "Information Systems Integration" course.
+
 How to build a To-Do List App in Vue 3 & Vite JS with LocalStorage.
 
 ## TOOLS :hammer:
